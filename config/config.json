@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "enigma580" ,
+    "database": "Mabook",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
